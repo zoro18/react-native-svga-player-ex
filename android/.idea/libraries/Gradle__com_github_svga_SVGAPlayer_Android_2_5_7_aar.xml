@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.svga:SVGAPlayer-Android:2.5.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9a6e821bbb9e1585e87a4506cef78db/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9a6e821bbb9e1585e87a4506cef78db/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9a6e821bbb9e1585e87a4506cef78db/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.svga/SVGAPlayer-Android/2.5.7/854bb245e7368db18a87f719dd624688c319e681/SVGAPlayer-Android-2.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
