@@ -24,7 +24,7 @@ public class SvgaPlayerExManager extends SimpleViewManager<View> {
     @Override
     public View createViewInstance(ThemedReactContext c) {
         // TODO: Implement some actually useful functionality
-        return null;
+        return new SvgaPlayerExImageView(c, null, 0);
     }
 
     @ReactProp(name = "source")

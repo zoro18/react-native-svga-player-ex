@@ -21,3 +21,14 @@ SvgaPlayerEx;
 />
 
 ```
+
+### V1.0.2
+*** 在项目的AndroidManifest.xml添加如下
+```
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+  package="com.senon.modularapp">
+```
+
+*** 在 application 添加allowBackup
+` <application 下增加tools:replace="android:allowBackup"  android:allowBackup="false" > `

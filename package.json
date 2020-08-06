@@ -1,7 +1,7 @@
 {
   "name": "react-native-svga-player-ex",
   "title": "React Native Svga Player Ex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -22,7 +22,10 @@
   "keywords": [
     "react-native"
   ],
-  "author": "zoro18 <zoro18@126.com>",
+  "author": {
+    "name": "zoro",
+    "url": "https://github.com/zoro18"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
