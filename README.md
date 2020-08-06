@@ -14,8 +14,10 @@ import SvgaPlayerEx from 'react-native-svga-player-ex';
 
 // TODO: What to do with the module?
 SvgaPlayerEx;
-```
+
 <SvgaPlayerEx
     style={{width: 400, height: 400}}
     source={`http://jssdynamic.oss-cn-shenzhen.aliyuncs.com/%E8%B7%91%E8%BD%A6.svga`}
 />
+
+```
